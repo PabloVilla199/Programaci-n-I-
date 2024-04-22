@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1704454373 source:c:\users\pablo\desktop\universidad\2023-2024\primer cuatrimestre\prog 1\practica 6\presas_catalan\main.cpp
+	<iostream>
+	"terminal.h"
+	<cstdlib>
+	<ctime>
+
+1697829113 c:\users\pablo\desktop\universidad\2023-2024\primer cuatrimestre\prog 1\practica 6\presas_catalan\terminal.h
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<sys/select.h>
+	<sys/ioctl.h>
+	<termios.h>
+	<stropts.h>
+	<windows.h>
+	<conio.h>
+
+1704997341 source:c:\users\pablo\desktop\ingenieria informatica\universidad\2023-2024\primer cuatrimestre\prog 1\practica 6\presas_catalan\main.cpp
+	<iostream>
+	"terminal.h"
+	<cstdlib>
+	<ctime>
+
+1697829113 c:\users\pablo\desktop\ingenieria informatica\universidad\2023-2024\primer cuatrimestre\prog 1\practica 6\presas_catalan\terminal.h
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<sys/select.h>
+	<sys/ioctl.h>
+	<termios.h>
+	<stropts.h>
+	<windows.h>
+	<conio.h>
+

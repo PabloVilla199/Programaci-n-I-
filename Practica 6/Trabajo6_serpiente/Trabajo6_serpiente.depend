@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1701533368 source:c:\users\pablo\desktop\universidad\2023-2024\primer cuatrimestre\prog 1\practica 6\trabajo6_serpiente\main.cpp
+	<iostream>
+	"terminal.h"
+	<cstdlib>
+
+1697829113 c:\users\pablo\desktop\universidad\2023-2024\primer cuatrimestre\prog 1\practica 6\trabajo6_serpiente\terminal.h
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<sys/select.h>
+	<sys/ioctl.h>
+	<termios.h>
+	<stropts.h>
+	<windows.h>
+	<conio.h>
+

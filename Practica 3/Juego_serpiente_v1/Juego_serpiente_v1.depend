@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1696432432 source:c:\users\pablo\desktop\2023-2024\primer cuatrimestre\prog 1\practica3\juego_serpiente_v1\main.cpp
+	<iostream>
+	"terminal.h"
+	<stdlib.h>
+	<time.h>
+
+1682762907 c:\users\pablo\desktop\2023-2024\primer cuatrimestre\prog 1\practica3\juego_serpiente_v1\terminal.h
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<sys/select.h>
+	<sys/ioctl.h>
+	<termios.h>
+	<stropts.h>
+	<windows.h>
+	<conio.h>
+
+1697622478 source:c:\users\pablo\desktop\2023-2024\primer cuatrimestre\prog 1\practica 3\juego_serpiente_v1\main.cpp
+	<iostream>
+	"terminal.h"
+	<stdlib.h>
+	<time.h>
+
+1682762907 c:\users\pablo\desktop\2023-2024\primer cuatrimestre\prog 1\practica 3\juego_serpiente_v1\terminal.h
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<sys/select.h>
+	<sys/ioctl.h>
+	<termios.h>
+	<stropts.h>
+	<windows.h>
+	<conio.h>
+

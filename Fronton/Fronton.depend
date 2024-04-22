@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1703428915 source:c:\users\pablo\desktop\universidad\2023-2024\primer cuatrimestre\prog 1\fronton\main.cpp
+	<iostream>
+	"terminal.h"
+	<stdlib.h>
+	<time.h>
+
+1602774131 c:\users\pablo\desktop\universidad\2023-2024\primer cuatrimestre\prog 1\fronton\terminal.h
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<sys/select.h>
+	<sys/ioctl.h>
+	<termios.h>
+	<stropts.h>
+	<windows.h>
+	<conio.h>
+

@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/Pablo/Desktop/Universidad/2023-2024/Primer cuatrimestre/Prog 1/Practica 6/Ej2 inf ect",
+      "program": "c:/Users/Pablo/Desktop/Universidad/2023-2024/Primer cuatrimestre/Prog 1/Practica 6/Ej2 inf ect/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

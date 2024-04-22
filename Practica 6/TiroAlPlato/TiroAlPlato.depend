@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1703884566 source:c:\users\pablo\desktop\universidad\2023-2024\primer cuatrimestre\prog 1\practica 6\tiroalplato\main.cpp
+	<iostream>
+	"terminal.h"
+	<cstdlib>
+	<ctime>
+
+1697829113 c:\users\pablo\desktop\universidad\2023-2024\primer cuatrimestre\prog 1\practica 6\tiroalplato\terminal.h
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<sys/select.h>
+	<sys/ioctl.h>
+	<termios.h>
+	<stropts.h>
+	<windows.h>
+	<conio.h>
+
+1703884566 source:c:\users\pablo\desktop\ingenieria informatica\universidad\2023-2024\primer cuatrimestre\prog 1\practica 6\tiroalplato\main.cpp
+	<iostream>
+	"terminal.h"
+	<cstdlib>
+	<ctime>
+
+1697829113 c:\users\pablo\desktop\ingenieria informatica\universidad\2023-2024\primer cuatrimestre\prog 1\practica 6\tiroalplato\terminal.h
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<sys/select.h>
+	<sys/ioctl.h>
+	<termios.h>
+	<stropts.h>
+	<windows.h>
+	<conio.h>
+
+1705063821 source:c:\users\pablo\desktop\ingenieria informatica\universidad\2023-2024\primer cuatrimestre\prog 1\practica 6\tiroalplato\pablo_villa_874773_examen_pelotas_v1 (1).cpp
+	<iostream>
+	"terminal.h"
+	<cstdlib>
+	<ctime>
+

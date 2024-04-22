@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1699978873 source:c:\users\pablo\desktop\2023-2024\primer cuatrimestre\prog 1\practica 5\piedra,papel,tijera\main.cpp
+	<iostream>
+	<time.h>
+	<ctime>
+
+1700155790 source:c:\users\pablo\desktop\universidad\2023-2024\primer cuatrimestre\prog 1\practica 5\piedra,papel,tijera\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+

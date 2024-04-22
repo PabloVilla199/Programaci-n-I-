@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1697727984 source:c:\users\pablo\desktop\2023-2024\primer cuatrimestre\prog 1\la q no escupe\main.cpp
+	<iostream>
+	<iomanip>
+	<cctype>
+	<ctime>
+	<cstdlib>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1697642708 source:c:\users\pablo\desktop\2023-2024\primer cuatrimestre\prog 1\practica 4\ejfade\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+
